@@ -1,0 +1,18 @@
+a {
+    text-decoration: none;
+}
+
+
+/* header */
+
+.logo {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.nav {
+    margin-left: 100px;
+}
+
+
+
